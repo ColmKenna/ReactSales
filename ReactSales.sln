@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{758C8FA8-D76F-4984-89C3-AEEE3CAF603A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesAPI", "SalesAPI\SalesAPI.csproj", "{758C8FA8-D76F-4984-89C3-AEEE3CAF603A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServerProvider", "IdentityServerProvider\IdentityServerProvider.csproj", "{32ADF6EB-1515-4B0C-95F8-4A8C09D07EFA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reactbffclient", "reactbffclient\reactbffclient.csproj", "{1BE01F73-1794-4814-A6CF-535174DAE717}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reactclient", "reactbffclient\reactclient.csproj", "{1BE01F73-1794-4814-A6CF-535174DAE717}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
